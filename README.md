@@ -6,7 +6,7 @@ Welcome to the ByteBeasts GitHub repository! This project is an innovative block
 
 ## Overview
 
-ByteBeasts combines the thrill of NFT collection with the depth of JRPG mechanics. Each ByteBeast is a unique NFT, ensuring that no two creatures are the same. Players can choose from five elemental types of ByteBeasts—Crystal, Draconic, Shadow, Light, and Titanium—each with its own strategic advantages and challenges.
+ByteBeasts combines the thrill of NFT collection with the depth of RPG mechanics. Each ByteBeast is a unique NFT, ensuring that no two creatures are the same. Players can choose from five elemental types of ByteBeasts—Crystal, Draconic, Shadow, Light, and Titanium—each with its own strategic advantages and challenges.
 
 ## Features
 
