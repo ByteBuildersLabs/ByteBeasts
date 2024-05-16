@@ -1,3 +1,5 @@
+![WhatsApp Image 2024-05-15 at 22 04 59](https://github.com/ByteBuildersLabs/ByteBeasts/assets/101369290/949647e1-06a0-4a13-8e1d-a4680546ebcc)
+
 # ByteBeasts - Blockchain-based RPG Game
 
 Welcome to the ByteBeasts GitHub repository! This project is an innovative blockchain-based RPG game where players collect, trade, and battle unique creatures known as ByteBeasts.
@@ -13,36 +15,17 @@ ByteBeasts combines the thrill of NFT collection with the depth of JRPG mechanic
 - **In-game Economy**: Trade ByteBeasts and other items on a reputable NFT marketplace on Starknet.
 - **Engaging Lore**: Explore the medieval-themed world of Digital Nexus and discover the secrets of ByteBeasts.
 
-## Roadmap
-
-### Pre-launch
-
-- Develop a visually appealing website and strong social media presence.
-- Create engaging content to educate players on game mechanics and blockchain integration.
-- Participate in gaming and blockchain conferences to showcase the game.
-
-### Launch
-
-- Host an in-person launch event with live gameplay demonstrations.
-- Implement targeted social media advertising and influencer marketing campaigns.
-
-### Post-Launch
-
-- Release regular content updates with new ByteBeasts, maps, and gameplay features.
-- Maintain an active community presence and robust customer support system.
-- Analyze player data to refine marketing strategies and game content.
-
 ## Game Design
 
-### Narrative
+### Game Design - Narrative
 
 Explore the rich backstory and world-building elements that bring ByteBeasts to life. Dive into the lore of the Digital Nexus, where ByteBeasts are formed from the planet's magical energy.
 
-### Art and Graphics
+### Game Design - Art and Graphics
 
 "ByteBeasts" features a unique blend of medieval and digital aesthetics, creating a visually compelling and immersive gaming experience.
 
-### Mechanics
+### Game Design - Mechanics
 
 - **Battles**: Turn-based battles between trainers using various creatures called ByteBeasts.
 - **Assemble Teams**: Players assemble a team of ByteBeasts with different abilities, types, and moves to battle against other trainers and wild creatures.
@@ -50,24 +33,16 @@ Explore the rich backstory and world-building elements that bring ByteBeasts to 
 - **Map Lobby**: Navigate through maps that serve as lobbies to find battles.
 - **Multiplayer**: Dojo supports real-time multiplayer interactions.
 
-### Platform and Technology
+### Game Design - Platform and Technology
 
 Detailed information about the platforms and technologies used in developing ByteBeasts, including the use of Unity and integration with blockchain through Starknet.
 
-## Contributing
+## Additional Resources
 
-We welcome contributions from the community! Please read our contributing guidelines to get started.
+- **Twitter**: [ByteBuildersLab](https://twitter.com/ByteBuildersLab)
 
-## License
+## Creators 🌟
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contact
-
-For any questions or inquiries, please reach out to us the maintainers
-- https://twitter.com/bytebuilderslab
-- https://twitter.com/coxmar_devCR
-- https://twitter.com/devJimenezz22
-- https://twitter.com/JuanDixCode
-- https://twitter.com/Marioadev
-- https://twitter.com/roloxworld
+| <img src="https://github.com/ByteBuildersLabs/ByteBeasts/assets/101369290/fe52be6a-113f-4bb0-8788-37187ff78f4f" alt="RolandoDrRobot" width="80" height="80"> | <img src="https://github.com/ByteBuildersLabs/ByteBeasts/assets/101369290/e4d129e0-ba84-4e4b-aa58-07891198f665" alt="juandiegocv27" width="80" height="80"> | <img src="https://github.com/ByteBuildersLabs/ByteBeasts/assets/101369290/16ba90ae-0b4d-40ef-b7d3-b04def6c5fe2" alt="coxmars" width="80" height="80"> | <img src="https://github.com/ByteBuildersLabs/ByteBeasts/assets/101369290/c20bae3e-7058-49c5-9b00-4b9d90c6c563" alt="jimenezz22" width="80" height="80"> | <img src="https://github.com/ByteBuildersLabs/ByteBeasts/assets/101369290/3344b88d-e5ff-4e5e-92b2-a32ed3dbc405" alt="Mario-Araya" width="80" height="80"> |
+|:---:|:---:|:---:|:---:|:---:|
+| [RolandoDrRobot](https://github.com/RolandoDrRobot) 🐲 | [juandiegocv27](https://github.com/juandiegocv27) 🍇 | [coxmars](https://github.com/coxmars) 🥷🏽 | [jimenezz22](https://github.com/jimenezz22) ⚡️ | [Mario-Araya](https://github.com/Mario-Araya) 🚀 |
