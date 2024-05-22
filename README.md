@@ -54,7 +54,7 @@ Lastly, we are eager to explore the integration of Dojo Engine for mobile platfo
 
 ## Acknowledgments
 
-This project is brought to life thanks to the Dojo Coding project's incubator community⛩️.
+This project is brought to life thanks to the Dojo Coding community⛩️.
 
 ## Creators 🌟
 
