@@ -89,18 +89,6 @@ Follow us on social media to stay updated with the latest news and updates:
 <a href="https://x.com/0xByteBeasts">
 <img src="https://img.shields.io/twitter/follow/0xByteBeasts?style=social"/>
 </a>
-<<<<<<< HEAD
-=======
-
-<a href="https://x.com/0xByteBeasts">
-<img src="https://img.shields.io/github/stars/ByteBuildersLabs?style=social"/>
-</a>
-
-[![Telegram Chat][tg-badge]][tg-url]
-
-[tg-badge]: https://img.shields.io/endpoint?color=neon&logo=telegram&label=chat&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fdojoengine
-[tg-url]: https://t.me/+-84e2pqLtqNkZDAx
->>>>>>> origin/improve-readme
 
 <a href="https://x.com/0xByteBeasts">
 <img src="https://img.shields.io/github/stars/ByteBuildersLabs?style=social"/>
