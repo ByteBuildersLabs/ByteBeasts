@@ -1,3 +1,5 @@
+![ByteBeasts Logo](https://file+.vscode-resource.vscode-cdn.net/Users/juandicv_/bytebeastslogo.jpeg?version%3D1729645828226)
+
 # ByteBeasts - Blockchain-based RPG Game
 
 Welcome to the ByteBeasts GitHub repository! This project is a revolutionary on-chain mobile game where players collect, trade, and battle unique creatures known as ByteBeasts in the magical world of Etheria.
@@ -55,6 +57,18 @@ Leveraging cutting-edge technology, ByteBeasts is built using Unity for a smooth
 
 <table>
   <tr>
+    <td align="center">
+      <img src="Maintainers/LuisEverai.png" width="100px;" alt="Maintainer: Luis"/>
+      <br />
+      <a href="https://t.me/devjimenezz22">Luis</a>
+      <br />
+    </td>
+    <td align="center">
+      <img src="Maintainers/juandiEverai.jpeg" width="100px;" alt="Maintainer: JuanDi"/>
+      <br />
+      <a href="https://t.me/JuanDixCode">JuanDi</a>
+      <br />
+    </td>
     <td align="center">
       <img src="maintainers/rolo.jpg" width="100px" alt="Maintainer: roloxworld"/>
       <br />
