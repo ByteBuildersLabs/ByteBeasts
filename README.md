@@ -1,13 +1,12 @@
-![WhatsApp Image 2024-05-15 at 22 04 59](https://github.com/ByteBuildersLabs/ByteBeasts/assets/101369290/949647e1-06a0-4a13-8e1d-a4680546ebcc)
-
+![ByteBeasts Logo](https://file+.vscode-resource.vscode-cdn.net/Users/juandicv_/bytebeastslogo.jpeg?version%3D1729645828226)
 
 # ByteBeasts - Blockchain-based RPG Game
 
-Welcome to the ByteBeasts GitHub repository! This project is a revolutionary on-chain mobile game where players collect, trade, and battle unique creatures known as ByteBeasts.
+Welcome to the ByteBeasts GitHub repository! This project is a revolutionary on-chain mobile game where players collect, trade, and battle unique creatures known as ByteBeasts in the magical world of Etheria.
 
 ## Overview
 
-ByteBeasts combines the thrill of NFT collection with the depth of RPG mechanics. Each ByteBeast is a unique NFT, ensuring that no two creatures are the same. Players can choose from five elemental types of ByteBeasts:
+ByteBeasts combines the thrill of NFT collection with the depth of RPG mechanics, set in the mystical realm of Etheria, where humans and ByteBeasts coexist in a world shaped by elemental forces. Each ByteBeast is a unique NFT, ensuring that no two creatures are the same. Players can choose from five elemental types of ByteBeasts, each born from the primordial essences that govern Etheria:
 
 - Crystal ❄️
 - Draconic 🐉
@@ -15,55 +14,101 @@ ByteBeasts combines the thrill of NFT collection with the depth of RPG mechanics
 - Light 🌟
 - Titanium ⚙️
 
-Each with its own strategic advantages and challenges.
+These elements not only define each ByteBeast's abilities but also influence the rich and diverse landscapes of Etheria.
 
 ## Features
 
-- **Unique NFT ByteBeasts**: Each creature is a distinct NFT with unique stats and abilities.
-- **Real-time Multiplayer Battles**: Engage in player vs. player battles in the Digital Nexus arena.
+- **Unique NFT ByteBeasts**: Each creature is a distinct NFT with unique stats and abilities, born from one of the five elemental essences of Etheria.
+- **Real-time Multiplayer Battles**: Engage in strategic turn-based battles within the Digital Nexus, the heart of Etheria, where the strongest Tamers clash.
 - **In-game Economy**: Trade ByteBeasts and other items on a reputable NFT marketplace on Starknet.
-- **Engaging Lore**: Explore the medieval-themed world of Digital Nexus and discover the secrets of ByteBeasts.
+- **Engaging Lore**: Explore Etheria, a world filled with magical history, ancient civilizations, and the mysteries of the ByteBeasts.
 
 ## Game Design
 
 ### Game Design - Narrative
 
-Explore the rich backstory and world-building elements that bring ByteBeasts to life. Dive into the lore of the Digital Nexus, where ByteBeasts are formed from the planet's magical energy.
+Etheria is a vibrant medieval fantasy realm shaped by the magical essences that gave birth to the ByteBeasts. The relationship between humans and these magical creatures is at the core of Etherian society, with Tamers using their bond to channel magic and fight in elemental arenas.
 
 ### Game Design - Art and Graphics
 
-"ByteBeasts" features a unique blend of medieval and digital aesthetics, creating a visually compelling and immersive gaming experience.
+"ByteBeasts" features a visually stunning mix of medieval and digital aesthetics. The world of Etheria ranges from the shadowy depths of the Umbral Forest to the radiant beauty of the Glacial Caverns, immersing players in its unique elemental environments.
 
 ### Game Design - Mechanics
 
-- **Battles**: Turn-based battles between trainers using various creatures called ByteBeasts.
-- **Assemble Teams**: Players assemble a team of ByteBeasts with different abilities, types, and moves to battle against other trainers and wild creatures.
-- **Exchange**: Trade ByteBeasts with other players.
-- **Map Lobby**: Navigate through maps that serve as lobbies to find battles.
-- **Multiplayer**: Dojo supports real-time multiplayer interactions.
+- **Battles**: Engage in tactical, turn-based combat using teams of ByteBeasts, each with its own elemental strengths.
+- **Assemble Teams**: Form teams of ByteBeasts with different abilities, types, and moves to face off against other Tamers.
+- **Exchange**: Trade ByteBeasts and rare items with other players in the bustling marketplace of the Tamers' Bazaar.
+- **Map Lobby**: Traverse Etheria's various regions, such as the Iron Citadel and Radiant Plains, in search of battles and rare creatures.
+- **Multiplayer**: Dojo supports real-time multiplayer interactions, bringing Etheria's Tamers together to compete and collaborate.
 
 ### Game Design - Platform and Technology
 
-Detailed information about the platforms and technologies used in developing ByteBeasts, including the use of Unity and integration with blockchain through Starknet.
+Leveraging cutting-edge technology, ByteBeasts is built using Unity for a smooth mobile experience and Starknet for blockchain integration, ensuring secure, efficient on-chain interactions. The Dojo engine allows for seamless multiplayer gameplay.
 
-- **Unity**: Leveraging the powerful game development platform for creating visually compelling experiences on mobile.
-- **Blockchain Integration**: Utilizing Starknet for secure and efficient on-chain interactions.
-- **Dojo Engine**: Exploring the integration of Dojo Engine for mobile platforms, aiming to create innovative mobile gaming experiences.
+## Screenshots ⚡️
 
-Lastly, we aim to integrate the Dojo Engine into mobile platforms to innovate mobile gaming. With millions of mobile users, the potential for blockchain-based gaming is vast. Our goal is to provide cutting-edge technology seamlessly, driving mass adoption without users even realizing it.
+<img width="603" alt="Captura de pantalla 2024-08-05 a la(s) 6 18 42 p  m" src="https://github.com/user-attachments/assets/5014a542-f1ae-48ee-a358-95e5e0aa1e32">
 
-## Additional Resources
+<img width="603" alt="Captura de pantalla 2024-08-05 a la(s) 6 18 47 p  m" src="https://github.com/user-attachments/assets/475897cc-8268-4762-b3cd-e76ef7b2b430">
 
-- **Twitter**: [ByteBuildersLab](https://twitter.com/ByteBuildersLab)
+<img width="603" alt="Captura de pantalla 2024-08-05 a la(s) 6 18 52 p  m" src="https://github.com/user-attachments/assets/98c80d9c-f3cf-407a-8d22-b5c2383bda94">
 
-## Acknowledgments
+## Maintainers 🥷
 
-This project is brought to life thanks to the Dojo Coding community ⛩️.
+<table>
+  <tr>
+    <td align="center">
+      <img src="Maintainers/LuisEverai.png" width="100px;" alt="Maintainer: Luis"/>
+      <br />
+      <a href="https://t.me/devjimenezz22">Luis</a>
+      <br />
+    </td>
+    <td align="center">
+      <img src="Maintainers/juandiEverai.jpeg" width="100px;" alt="Maintainer: JuanDi"/>
+      <br />
+      <a href="https://t.me/JuanDixCode">JuanDi</a>
+      <br />
+    </td>
+    <td align="center">
+      <img src="maintainers/rolo.jpg" width="100px" alt="Maintainer: roloxworld"/>
+      <br />
+      <a href="https://github.com/RolandoDrRobot">roloxworld</a>
+      <br />
+    </td>
+    <td align="center">
+      <img src="maintainers/marco.jpeg" width="100px" alt="Maintainer: coxmars"/>
+      <br />
+      <a href="https://github.com/coxmars">coxmars</a>
+      <br />
+    </td>
+    <td align="center">
+      <img src="assets/danielcdz.everai.png" width="100px;" alt="Maintainer: danielcdz"/>
+      <br />
+      <a href="https://t.me/danielcdz">danielcdz</a>
+      <br />
+    </td>
+    <td align="center">
+      <img src="assets/marco.everai.jpg" width="100px;" alt="Maintainer: Marco"/>
+      <br />
+      <a href="https://t.me/coxmar23">Marco</a>
+      <br />
+    </td>
+  </tr>
+</table>
 
+## Follow Us 🌟
 
-## Creators 🌟
+Follow us on social media to stay updated with the latest news and updates:
 
-| <img src="https://github.com/ByteBuildersLabs/ByteBeasts/assets/101369290/fe52be6a-113f-4bb0-8788-37187ff78f4f" alt="RolandoDrRobot" width="80" height="80"> | <img src="https://github.com/ByteBuildersLabs/ByteBeasts/assets/101369290/e4d129e0-ba84-4e4b-aa58-07891198f665" alt="juandiegocv27" width="80" height="80"> | <img src="https://github.com/ByteBuildersLabs/ByteBeasts/assets/101369290/16ba90ae-0b4d-40ef-b7d3-b04def6c5fe2" alt="coxmars" width="80" height="80"> | <img src="https://github.com/ByteBuildersLabs/ByteBeasts/assets/101369290/c20bae3e-7058-49c5-9b00-4b9d90c6c563" alt="jimenezz22" width="80" height="80"> |
-|:---:|:---:|:---:|:---:|
-| [RolandoDrRobot](https://github.com/RolandoDrRobot) 🐲 | [juandiegocv27](https://github.com/juandiegocv27) 🍇 | [coxmars](https://github.com/coxmars) 🥷🏽 | [jimenezz22](https://github.com/jimenezz22) ⚡️ |
+<a href="https://x.com/0xByteBeasts">
+<img src="https://img.shields.io/twitter/follow/0xByteBeasts?style=social"/>
+</a>
 
+<a href="https://x.com/0xByteBeasts">
+<img src="https://img.shields.io/github/stars/ByteBuildersLabs?style=social"/>
+</a>
+
+[![Telegram Chat][tg-badge]][tg-url]
+
+[tg-badge]: https://img.shields.io/endpoint?color=neon&logo=telegram&label=chat&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fdojoengine
+[tg-url]: https://t.me/+-84e2pqLtqNkZDAx
