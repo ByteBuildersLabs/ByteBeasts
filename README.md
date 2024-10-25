@@ -1,4 +1,6 @@
-![ByteBeasts Logo](https://file+.vscode-resource.vscode-cdn.net/Users/juandicv_/bytebeastslogo.jpeg?version%3D1729645828226)
+
+![bytebeastslogo](https://github.com/user-attachments/assets/e7cf529d-d66b-4046-a807-2d401d522735)
+
 
 # ByteBeasts - Blockchain-based RPG Game
 
