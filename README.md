@@ -1,6 +1,4 @@
-
 ![bytebeastslogo](https://github.com/user-attachments/assets/e7cf529d-d66b-4046-a807-2d401d522735)
-
 
 # ByteBeasts - Blockchain-based RPG Game
 
@@ -14,7 +12,6 @@ ByteBeasts combines the thrill of NFT collection with the depth of RPG mechanics
 - Draconic 🐉
 - Shadow 🐦‍⬛
 - Light 🌟
-- Titanium ⚙️
 
 These elements not only define each ByteBeast's abilities but also influence the rich and diverse landscapes of Etheria.
 
@@ -47,52 +44,38 @@ Etheria is a vibrant medieval fantasy realm shaped by the magical essences that 
 
 Leveraging cutting-edge technology, ByteBeasts is built using Unity for a smooth mobile experience and Starknet for blockchain integration, ensuring secure, efficient on-chain interactions. The Dojo engine allows for seamless multiplayer gameplay.
 
-## Screenshots ⚡️
-
-<img width="603" alt="Captura de pantalla 2024-08-05 a la(s) 6 18 42 p  m" src="https://github.com/user-attachments/assets/5014a542-f1ae-48ee-a358-95e5e0aa1e32">
-
-<img width="603" alt="Captura de pantalla 2024-08-05 a la(s) 6 18 47 p  m" src="https://github.com/user-attachments/assets/475897cc-8268-4762-b3cd-e76ef7b2b430">
-
-<img width="603" alt="Captura de pantalla 2024-08-05 a la(s) 6 18 52 p  m" src="https://github.com/user-attachments/assets/98c80d9c-f3cf-407a-8d22-b5c2383bda94">
-
 ## Maintainers 🥷
 
 <table>
   <tr>
     <td align="center">
-      <img src="Maintainers/LuisEverai.png" width="100px;" alt="Maintainer: Luis"/>
+      <img src="https://github.com/user-attachments/assets/177e0705-863b-4c4c-86c4-e5177d526499" width="100px;" alt="Maintainer: Luis"/>
       <br />
       <a href="https://t.me/devjimenezz22">Luis</a>
       <br />
     </td>
     <td align="center">
-      <img src="Maintainers/juandiEverai.jpeg" width="100px;" alt="Maintainer: JuanDi"/>
+      <img src="https://github.com/user-attachments/assets/c0dbfc61-42bd-4230-bfa7-678ded20e89a" width="100px;" alt="Maintainer: JuanDi"/>
       <br />
       <a href="https://t.me/JuanDixCode">JuanDi</a>
       <br />
     </td>
     <td align="center">
-      <img src="maintainers/rolo.jpg" width="100px" alt="Maintainer: roloxworld"/>
+      <img src="https://github.com/user-attachments/assets/15bc87cb-579f-42e7-b6c7-c8c9a779a5ab" width="100px" alt="Maintainer: roloxworld"/>
       <br />
       <a href="https://github.com/RolandoDrRobot">roloxworld</a>
       <br />
     </td>
     <td align="center">
-      <img src="maintainers/marco.jpeg" width="100px" alt="Maintainer: coxmars"/>
+      <img src="https://github.com/user-attachments/assets/6f6b89ff-7142-438d-90fa-edd0807b35de" width="100px" alt="Maintainer: coxmars"/>
       <br />
       <a href="https://github.com/coxmars">coxmars</a>
       <br />
     </td>
     <td align="center">
-      <img src="assets/danielcdz.everai.png" width="100px;" alt="Maintainer: danielcdz"/>
+      <img src="https://github.com/user-attachments/assets/c84ee326-1cc0-487f-9d0b-120bb22f1e59" width="100px;" alt="Maintainer: danielcdz"/>
       <br />
       <a href="https://t.me/danielcdz">danielcdz</a>
-      <br />
-    </td>
-    <td align="center">
-      <img src="assets/marco.everai.jpg" width="100px;" alt="Maintainer: Marco"/>
-      <br />
-      <a href="https://t.me/coxmar23">Marco</a>
       <br />
     </td>
   </tr>
@@ -104,10 +87,6 @@ Follow us on social media to stay updated with the latest news and updates:
 
 <a href="https://x.com/0xByteBeasts">
 <img src="https://img.shields.io/twitter/follow/0xByteBeasts?style=social"/>
-</a>
-
-<a href="https://x.com/0xByteBeasts">
-<img src="https://img.shields.io/github/stars/ByteBuildersLabs?style=social"/>
 </a>
 
 [![Telegram Chat][tg-badge]][tg-url]
