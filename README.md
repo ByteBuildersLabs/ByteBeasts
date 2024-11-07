@@ -51,7 +51,7 @@ Leveraging cutting-edge technology, ByteBeasts is built using Unity for a smooth
     <td align="center">
       <img src="https://github.com/user-attachments/assets/177e0705-863b-4c4c-86c4-e5177d526499" width="100px;" alt="Maintainer: Luis"/>
       <br />
-      <a href="https://t.me/devjimenezz22">Luis</a>
+      <a href="https://t.me/roloxworld">Luis</a>
       <br />
     </td>
     <td align="center">
@@ -63,13 +63,13 @@ Leveraging cutting-edge technology, ByteBeasts is built using Unity for a smooth
     <td align="center">
       <img src="https://github.com/user-attachments/assets/15bc87cb-579f-42e7-b6c7-c8c9a779a5ab" width="100px" alt="Maintainer: roloxworld"/>
       <br />
-      <a href="https://github.com/RolandoDrRobot">roloxworld</a>
+      <a href="https://t.me/@roloxworld">roloxworld</a>
       <br />
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/6f6b89ff-7142-438d-90fa-edd0807b35de" width="100px" alt="Maintainer: coxmars"/>
       <br />
-      <a href="https://github.com/coxmars">coxmars</a>
+      <a href="https://t.me/coxmar23">coxmars</a>
       <br />
     </td>
     <td align="center">
